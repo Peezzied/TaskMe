@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TaskMe</string>
+    <string name="title_hint">Task Title</string>
+    <string name="description_hint">Task Description (optional)</string>
+    <string name="add_task">Add Task</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="sync_tasks">Sync Tasks</string>
+    <string name="tasks_synced">Tasks synchronized</string>
+    <string name="empty_tasks">No tasks yet. Add one above!</string>
+    <string name="error_empty_title">Title cannot be empty</string>
+    <string name="error_loading_tasks">Failed to load tasks</string>
+    <string name="error_adding_task">Failed to add task</string>
+    <string name="task_added_success">Task added successfully</string>
+    <string name="task_saved_offline">Task saved offline (will sync when online)</string>
+    <string name="offline_mode_active">Working offline with cached data</string>
+    <string name="task_deleted_success">Task deleted</string>
+</resources>
