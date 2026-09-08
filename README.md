@@ -1,8 +1,9 @@
 # TaskMe - A Simple To-Do List Android Application
 
 ## Overview and System Architecture
-
-![System Architecture](images/image1.png)
+<p align="center">
+    <img src="images/image1.png">
+</p>
 
 TaskMe is an Android task management application designed to allow users to create, view, complete, delete, and synchronize task items. It features a modern, accessible Material Design 3 user interface with smooth animations and robust offline capability powered by Firebase Firestore.
 
