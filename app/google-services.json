@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385016277787",
+    "project_id": "taskme-5f4a8",
+    "storage_bucket": "taskme-5f4a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385016277787:android:2ddfc57056a05c697081be",
+        "android_client_info": {
+          "package_name": "com.example.taskme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUne3BEU_ghs5Zpr0MagK79OgsWt6r1D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
